@@ -24,16 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=mashfikur&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mashfikur Rahman from Dhaka , Bangladesh .<br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects</p>
-
-###
-
 <h3 align="left">🛠 Language and Frameworks I know</h3>
 
 ###
@@ -80,6 +70,27 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div style="display: flex; justify-content: space-between; gap:50; "  >
+
+###
+
+###
+
+<div style="margin-right: 20px;"  ><h3 align="left">👩‍💻  Current Activites</h3>
+
+<p align="left"><br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects</p>
+
+</div>
+
+<div>
+<a href="https://app.daily.dev/mahin_007"><img src="https://api.daily.dev/devcards/10f3f6965d164a5b8fd006733a30b055.png?r=1hc" width="280" alt="Mahin's Dev Card"/></a>
+
+ </div>
+
 </div>
 
 ###
