@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="155" src="https://i.ibb.co/QQJYt0R/github-banner.png"  />
+  <img height="155" src="https://i.ibb.co/8xfY4hb/github-banner-2.png"  />
 </div>
 
 ###
@@ -16,11 +16,21 @@
 
 ###
 
+<h3 align="left">📶 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mashfikur&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm  from Dhaka , Bangladesh<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mashfikur Rahman from Dhaka , Bangladesh .<br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects</p>
 
 ###
 
@@ -58,7 +68,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools I'm familiar with</h3>
+<h3 align="left">🚀 Tools I'm familiar with</h3>
 
 ###
 
@@ -71,9 +81,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
