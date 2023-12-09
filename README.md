@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mashfikur&theme=blueberry" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=mashfikur&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h3 align="left">🛠 Technologies & Frameworks I know</h3>
