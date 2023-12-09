@@ -72,24 +72,18 @@
 
 ###
 
-<div style="display:flex ; justify-content: space-between; gap:50; ">
+<div align="left" >
+<a href="https://app.daily.dev/mahin_007"><img align="right"  src="https://api.daily.dev/devcards/10f3f6965d164a5b8fd006733a30b055.png?r=1hc" width="230" alt="Mahin's Dev Card"/></a>
 
-###
+ </div>
 
-###
-
-<div style="margin-right: 20px;"  >
 
 <h3 align="left">👩‍💻  Current Activites</h3>
 <h4 align="left"><br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects with new features <br>- 🚀 My goal is to contribute in development sector with my best to create good outcome </h4>
 
-</div>
 
-<div>
-<a href="https://app.daily.dev/mahin_007"><img src="https://api.daily.dev/devcards/10f3f6965d164a5b8fd006733a30b055.png?r=1hc" width="230" alt="Mahin's Dev Card"/></a>
 
- </div>
 
-</div>
+
 
 ###
