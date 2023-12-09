@@ -78,6 +78,11 @@
  </div>
 
 <h3 align="left">👩‍💻  Current Activites</h3>
-<h4 align="left"><br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects with new features <br>- 🚀 My goal is to contribute in development sector with my best to create good outcome </h4>
+
+#### 🔭 I’m currently studying B.Sc in Computer Science & Engineering
+#### 📚 I'm currently learning Next JS to boost my Full Stack Development Experience
+#### ⚡ In my free time I practice and upgrade my previous potential projects with new features
+#### 🚀 My goal is to contribute in development sector with my best to create outstanding products 
+
 
 ###
