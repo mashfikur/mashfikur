@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mashfikur&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mashfikur&theme=blueberry" alt="GitHub Streak" /></a>
 </div>
 
 <h3 align="left">🛠 Technologies & Frameworks I know</h3>
@@ -80,9 +80,11 @@
 <h3 align="left">👩‍💻  Current Activites</h3>
 
 #### 🔭 I’m currently studying B.Sc in Computer Science & Engineering
-#### 📚 I'm currently learning Next JS to boost my Full Stack Development Experience
-#### ⚡ In my free time I practice and upgrade my previous potential projects with new features
-#### 🚀 My goal is to contribute in development sector with my best to create outstanding products 
 
+#### 📚 I'm currently learning Next JS to boost my Full Stack Development Experience
+
+#### ⚡ In my free time I practice and upgrade my previous potential projects with new features
+
+#### 🚀 My goal is to contribute in development sector with my best to create outstanding products
 
 ###
