@@ -85,6 +85,6 @@
 
 #### ⚡ In my free time I practice and upgrade my previous potential projects with new features
 
-#### 🚀 My goal is to contribute in development sector with my best to create outstanding products
+#### 🚀 My goal is to contribute in development sector with my best effort 
 
 ###
