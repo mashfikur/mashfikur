@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.ibb.co/0ZD2CH9/banner-1.png"  />
+  <img  src="https://raw.githubusercontent.com/mashfikur/mashfikur/main/assets/banner-1.png"  />
 </div>
 
 ###
@@ -77,13 +77,7 @@
 
  </div>
 
-
 <h3 align="left">👩‍💻  Current Activites</h3>
 <h4 align="left"><br><br>- 🔭 I’m currently studying B.Sc in Computer Science & Engineering<br>- 📚 I'm currently learning Next JS to boost my Full Stack Development Experience<br>- ⚡ In my free time I practice and upgrade my previous potential projects with new features <br>- 🚀 My goal is to contribute in development sector with my best to create good outcome </h4>
-
-
-
-
-
 
 ###
